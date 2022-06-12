@@ -12,4 +12,8 @@ Use cases explored include popular datasets in the literature of these models, a
 
 "Regression Analysis" by Jim Frost: https://amz.run/5fha
 
-"Gradient Boosting with XGBoost and Scikit-Learn": https://amz.run/5fh
+"Gradient Boosting with XGBoost and Scikit-Learn" by Wade: https://amz.run/5fh
+
+"Practical Recommender Systems" by Falk: https://amz.run/5g4W
+
+"Recommender Systems" by Aggarwal: https://amz.run/5g4X
